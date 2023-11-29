@@ -13,7 +13,7 @@
 
 #### DataBase & Search Framework
 [![](https://img.shields.io/badge/-Elastic%20search-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/cn/elasticsearch/)
-[![](https://img.shields.io/badge/-Mangodb-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
