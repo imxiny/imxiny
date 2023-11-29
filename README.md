@@ -62,4 +62,4 @@
 
 
 ----
-![Legiorange's github stats](https://github-readme-stats.vercel.app/api?username=imxiny)
+![Qazink's github stats](https://github-readme-stats.vercel.app/api?username=imxiny)
